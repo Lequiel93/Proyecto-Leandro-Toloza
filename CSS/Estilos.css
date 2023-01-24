@@ -1,0 +1,34 @@
+
+#para1{
+    color: green;
+    font-family: ;
+}
+
+.esp{
+    color: brown;
+}
+
+section {
+margin: 20px;
+border: 20px solid green;
+padding: 40px;
+width: 1000px;
+text-align: center;
+color: red;
+}
+
+article{
+    margin: 30px;
+border: 50px solid gray;
+padding: 30px;
+width: 900px;
+text-align: left;
+color: green
+}
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+/** Comentario */

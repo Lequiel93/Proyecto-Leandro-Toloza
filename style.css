@@ -1,0 +1,88 @@
+h1{
+    text-align: center;
+    font-family: 'Noto Serif Khojki', serif;
+    color:#00425A;
+}
+h2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color:#00425A;
+ }
+
+ h3{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    color:midnightblue;
+ }
+
+body{
+    background-color: #A5C9CA;
+    margin: auto;
+    border: 40px solid #0A2647;
+    padding: 20px;
+}
+
+article{
+    font-family: 'Roboto', sans-serif; 
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+#nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+#nav li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+ }
+
+ #nav li a {
+    padding: 5px 12px;
+    color:white;
+    background-color:#00425A;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    
+ }
+
+ 
+
+ li{
+    text-align: center;
+    list-style-type: none;
+ }
+
+ .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .read-more-btn {
+    background-color: #00425A;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 5px 12px;
+    font-size: 17px;
+    cursor: pointer;
+  }
+  
+   
+  .hide{
+   display: none;
+  }
+  
+  .show{
+    display: block;
+  }
